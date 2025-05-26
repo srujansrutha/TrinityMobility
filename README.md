@@ -1,3 +1,4 @@
+Demo: https://drive.google.com/file/d/1CGFy-P2yaRQ1-cKu9u4H8kpatEzdEUdT/view?usp=drivesdk
 # 🌆 Smart City Information Assistant
 
 A comprehensive AI-powered assistant that helps citizens access information about city services, policies, transportation, and public facilities using advanced Retrieval-Augmented Generation (RAG) and a multi-agent system architecture.
